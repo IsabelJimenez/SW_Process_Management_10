@@ -1,18 +1,20 @@
+# 🚀 SW_Process_Management_10
 
-🚀 Gestión del Proceso de Desarrollo de SW ⚙️
-¡Hola y bienvenido! 👋 Este es el repositorio oficial para la materia de Gestión del Proceso de Desarrollo de Software del 10º cuatrimestre en la UTOM.
+📁 **Repositorio de práctica** — *UTOM Cuatrimestre 10, Año 2025*
 
-✨ Sobre este Repositorio ✨
-Este espacio está creado para que practiquemos, colaboremos y compartamos todo lo relacionado con el fascinante mundo de la gestión de procesos de software. Aquí encontrarás:
+🎯 **Propósito:** Este repositorio está diseñado para apoyar el aprendizaje y la aplicación de conceptos clave en la gestión del proceso de desarrollo de software.
 
-💻 Ejercicios y Prácticas: ¡Manos a la obra! Aquí subiremos nuestras tareas y proyectos.
+🧠 **Contenido:**
+- Actividades prácticas 💻
+- Ejercicios de gestión 📊
+- Documentación técnica 📄
+- Ejemplos de procesos ágiles ⚙️
 
-📚 Recursos y Apuntes: Enlaces, documentos y notas útiles que nos ayudarán a triunfar.
+👥 **Equipo de trabajo:** Estudiantes de Gestión de Proyectos de Software
 
-💡 Proyectos en Equipo: Espacios para colaborar y crear software increíble juntos.
+📌 **Notas:**
+Este espacio es ideal para experimentar, colaborar y reforzar habilidades en planificación, seguimiento y mejora continua del ciclo de vida del software.
 
-🏛️ Nuestra Casa de Estudios 🏛️
-Universidad Tecnológica del Oriente de Michoacán (UTOM)
+---
 
-
-
+✨ *¡Aprendiendo a gestionar, construir y evolucionar software con propósito!* ✨
