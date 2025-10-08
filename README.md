@@ -1,4 +1,3 @@
-¡Claro que sí! Aquí tienes una propuesta de README.md que combina la información profesional con un estilo amigable y visual.
 
 🚀 Gestión del Proceso de Desarrollo de SW ⚙️
 ¡Hola y bienvenido! 👋 Este es el repositorio oficial para la materia de Gestión del Proceso de Desarrollo de Software del 10º cuatrimestre en la UTOM.
@@ -16,18 +15,4 @@ Este espacio está creado para que practiquemos, colaboremos y compartamos todo 
 Universidad Tecnológica del Oriente de Michoacán (UTOM)
 
 
-Carrera: Ingeniería en Desarrollo y Gestión de Software 
 
-
-Cuatrimestre: 10º 
-
-
-Generación: 2025 
-
-
-Ubicación: Maravatío, Michoacán 
-
-🎯 Objetivo del Curso 🎯
-Dominar las metodologías, herramientas y buenas prácticas para gestionar el ciclo de vida del desarrollo de software de manera eficiente, desde la idea inicial 🧠 hasta el despliegue final 🚢.
-
-¡Vamos a darle con todo este cuatrimestre y a construir cosas geniales! 🌟
