@@ -1,2 +1,0 @@
-Este es mi archivo de prueba para el commit.
-Actualizado por Ricardo Mejía como parte del ejercicio RMS.
